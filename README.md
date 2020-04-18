@@ -29,3 +29,7 @@ Kafka consumer
 Spark job
 
 ```spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.4 --master local[*] data_stream.py```
+
+### Test producer
+
+Alternatively you should use the consumer_server.py to test if the producer was properly configured
