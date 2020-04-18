@@ -33,3 +33,12 @@ Spark job
 ### Test producer
 
 Alternatively you should use the consumer_server.py to test if the producer was properly configured
+
+
+### How did changing values on the SparkSession property parameters affect the throughput and latency of the data?
+
+xxxxx
+
+### What were the 2-3 most efficient SparkSession property key/value pairs? Through testing multiple variations on values, how can you tell these were the most optimal?
+
+xxxxxxx
