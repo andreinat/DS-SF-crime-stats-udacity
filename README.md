@@ -16,7 +16,7 @@ Start Zookeeper Server
 
 Start Kafka Server
 
-```/usr/bin/kafka-server-start producer.properties```
+```/usr/bin/kafka-server-start config/server.properties```
 
 Start producer
 
